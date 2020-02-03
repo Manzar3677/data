@@ -3,5 +3,8 @@
     "designation" : "Software Engineer",
     "company name" : "Iesoftek",
     "imageName" : "javaScript",
-    "javaScript_url": "https://github.com/Manzar3677/data/blob/master/homegenie.png?raw=true"
+    "javaScript_url":{[ 
+                      "https://github.com/Manzar3677/data/blob/master/homegenie.png?raw=true",
+                      "https://github.com/Manzar3677/data/blob/master/pexels-photo-2.jpeg?raw=true"
+                      ]}
 }
