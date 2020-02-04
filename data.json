@@ -6,11 +6,11 @@
     "company name" : "Iesoftek",
     "imageName" : "javaScript",
     "javaScript_url":[
-        {"url":"https://github.com/Manzar3677/data/blob/master/homegenie.png?raw=true"},
-        {"url":"https://github.com/Manzar3677/data/blob/master/pexels-photo-2.jpeg?raw=true"},
-        {"url":"https://github.com/Manzar3677/data/blob/master/pexels-photo-2014697.jpeg?raw=true"},
-        {"url":"https://github.com/Manzar3677/data/blob/master/pexels-photo-3.jpeg?raw=true"},
-        {"url":"https://github.com/Manzar3677/data/blob/master/pexels-photo-5.jpeg?raw=true"},
-        {"url":"https://github.com/Manzar3677/data/blob/master/pexels-photo-6.jpeg?raw=true"}
+        "https://github.com/Manzar3677/data/blob/master/homegenie.png?raw=true",
+        "https://github.com/Manzar3677/data/blob/master/pexels-photo-2.jpeg?raw=true",
+        "https://github.com/Manzar3677/data/blob/master/pexels-photo-2014697.jpeg?raw=true",
+        "https://github.com/Manzar3677/data/blob/master/pexels-photo-3.jpeg?raw=true",
+        "https://github.com/Manzar3677/data/blob/master/pexels-photo-5.jpeg?raw=true",
+        "https://github.com/Manzar3677/data/blob/master/pexels-photo-6.jpeg?raw=true"
 ]
 }
